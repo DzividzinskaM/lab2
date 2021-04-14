@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CjClutter.ObjLoader.Loader">
+      <HintPath>D:\computer-gr\ObjLoader-master\ObjLoader-master\source\CjClutter.ObjLoader.Loader\bin\Debug\netstandard1.4\CjClutter.ObjLoader.Loader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
