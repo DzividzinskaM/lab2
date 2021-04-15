@@ -169,7 +169,7 @@ namespace RendererApp
 
                 Triangle triangel = new Triangle(vertex1, vertex2, vertex3);
 
-
+                 TriangleLst.Add(triangel);
                 
             }
 
